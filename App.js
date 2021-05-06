@@ -185,18 +185,6 @@ export default function App() {
               <Text style={styles.brac}>{"]"}</Text>
               <Text style={styles.coma}>,</Text>
             </Text>
-            <Text>
-              <Text style={styles.number}>21</Text>
-            </Text>
-            <Text>
-              <Text style={styles.number}>22</Text>
-            </Text>
-            <Text>
-              <Text style={styles.number}>23</Text>
-            </Text>
-            <Text>
-              <Text style={styles.number}>24</Text>
-            </Text>
           </View>
         </View>
       <StatusBar style="auto" />
